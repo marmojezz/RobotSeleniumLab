@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+robotframework==6.0
+robotframework-datadriver
+robotframework-stacktrace
+robotframework-retryfailed
+robotframework-SeleniumLibrary
