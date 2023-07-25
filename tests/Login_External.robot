@@ -1,11 +1,11 @@
 *** Settings ***
 Library           DataDriver    file=data/Login.csv
-Test Template     Login With User And Password
+Test Template     Login com Usuario e Senha
 
 *** Test Cases ***
-Login with user ${username} and password ${password}    Default    UserData
+Login com usuario ${username} e senha ${password}    Default    UserData
 
 *** Keywords ***
-Login With User And Password
+Login com Usuario e Senha
     [Arguments]    ${username}    ${password}
     Log Many    ${username}    ${password}

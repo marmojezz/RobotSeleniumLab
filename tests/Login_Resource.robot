@@ -1,6 +1,6 @@
 *** Settings ***
 Test Template    Login with invalid credentials should fail
-Resource  ./../resources/Login.resource
+Resource         resources/Login.resource
 
 *** Variables ***
 ${VALID USER}    testuser
