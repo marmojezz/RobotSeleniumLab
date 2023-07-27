@@ -1,0 +1,2 @@
+*** Test Cases ***;${username};${password};${perfil};[Tags];[Documentation]
+Login como paciente;808.786.010-15;Smart10*;Paciente;tag;documentação

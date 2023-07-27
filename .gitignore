@@ -165,8 +165,4 @@ output.xml
 report.html
 
 # Robot Framework test lab
-tests/Login_BDD_EN.robot
-Login_BDD_BR_não_funciona.robot
-Login_External.robot
-Login_Resource.robot
-Login_Intern.robot
+*/alpha/

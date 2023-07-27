@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0 (Python 3.11.4 on win32)" generated="20230726 19:56:07.412" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\arauj\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Given I am on the login page">
+<msg timestamp="20230726 19:56:12.703" level="FAIL">No keyword with name 'Given I am on the login page' found.</msg>
+<status status="FAIL" starttime="20230726 19:56:12.703" endtime="20230726 19:56:12.703"/>
+</kw>
+<kw name="When I login with username &quot;invalid&quot; and password &quot;invalid&quot;">
+<status status="NOT RUN" starttime="20230726 19:56:12.704" endtime="20230726 19:56:12.704"/>
+</kw>
+<kw name="Then I should see the error message">
+<status status="NOT RUN" starttime="20230726 19:56:12.708" endtime="20230726 19:56:12.708"/>
+</kw>
+<kw name="And I should be able to login again">
+<status status="NOT RUN" starttime="20230726 19:56:12.710" endtime="20230726 19:56:12.710"/>
+</kw>
+<status status="PASS" starttime="20230726 19:56:07.441" endtime="20230726 19:57:36.090"/>
+</kw>
+<status status="PASS" starttime="20230726 19:56:07.441" endtime="20230726 19:57:36.091"/>
+</test>
+<status status="PASS" starttime="20230726 19:56:07.414" endtime="20230726 19:57:36.092"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

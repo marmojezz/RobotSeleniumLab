@@ -7,3 +7,15 @@ Right user wrong pass;demo;FooBar;2,3,foo;This test case has the Tags 2,3 and fo
 ;FooBar;mode;foo,1;
 ;FooBar;${EMPTY};foo;
 ;FooBar;FooBar;foo,2;
+
+
+;808.786.010-15;Smart10*;Paciente;
+;169.094.730-60;Smart10*;Paciente;
+;931.773.830-30;Smart10*;Paciente;
+;405.024.090-45;Smart10*;Paciente;
+;599.498.220-25;Smart10*;Reguladores;
+;344.683.620-90;Smart10*;Médicos;
+;011.871.010-95;Smart10*;Administrador;
+;800.137.100-01;Smart10*;Coordenadores;
+;240.880.040-43;Smart10*;Operadores;
+;568.282.610-89;Smart10*;Apoiadores;
