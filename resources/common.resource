@@ -1,5 +1,5 @@
 *** Settings ***
-Resource        bdd-ptBR.resource
+Resource        bdd-portuguese.resource
 *** Variables ***
 
 
